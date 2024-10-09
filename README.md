@@ -4,7 +4,13 @@
 - 🌱 I’m currently learning C/C++ at the 42 school in Heilbronn, and App design with Flutter/ Dart and Figma
 - 📫 How to reach me: the best at linkedin: linkedin.com/in/fkeitel
 
-<!---
-floktl/floktl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects:
+
+### [42 Core Curriculum - <sub><sup>Click here</sup></sub>](https://github.com/floktl/42-Projects)
+
+`All projects I am currently working on and have completed during my study at 42Heilbronn`
+
+
+
+<br /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aerly-lex"/> </p>
