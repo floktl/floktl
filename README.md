@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Florian
 - 👀 I’m interested in technology, that will improve the life of all living things on earth and beyond,
   mainly education, clean-energy and space exploration
-- 🌱 I’m currently learning C/C++ at the 42 school in Heilbronn, and App design with Flutter/ Dart and Figma
-- 📫 How to reach me: the best at linkedin: [<sup>Click here</sup></sub>](linkedin.com/in/fkeitel)
+- 🌱 I’m currently learning C/C++ at the [42](https://www.42heilbronn.de/en/) Heilbronn, and App design with Flutter/ Dart and Figma
+- 📫 How to reach me the best: [LinkedIn](https://linkedin.com/in/fkeitel)
 
 ## Projects:
 
